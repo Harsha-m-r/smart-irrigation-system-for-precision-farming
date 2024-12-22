@@ -10,10 +10,9 @@ An IoT-based Smart Agriculture System that optimizes irrigation through real-tim
 - [Hardware Components](#hardware-components)
 - [Software & Technologies](#software--technologies)
 - [System Architecture](#system-architecture)
-- [Installation & Setup](#installation--setup)
+- [Snapshots of Implementations](#-snapshots-of-implementations)
 - [Usage](#usage)
 - [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## 🌾 Project Overview
